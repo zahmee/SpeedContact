@@ -69,6 +69,12 @@ app/src/main/play/release-notes/en-US/default.txt
 .\gradlew.bat :app:publishReleaseBundle --max-workers=1 --no-configuration-cache --track production --release-status completed
 ```
 
+ولنقل إصدار مرفوع من مسار إلى آخر، دون رفعه من جديد:
+
+```powershell
+.\gradlew.bat :app:promoteReleaseArtifact --from-track internal --promote-track alpha --release-status draft --max-workers=1 --no-configuration-cache
+```
+
 ٥. تحقق من النتيجة:
 
 ```powershell
