@@ -1,0 +1,28 @@
+O Speed Contact coloca as pessoas com quem você mais fala na sua tela inicial, a um toque de distância, sem precisar abrir um app.
+
+Quatro widgets para escolher:
+• Grade de fotos: fotos das pessoas que você escolher, com os nomes delas.
+• Lista de nomes: nomes em linhas, um embaixo do outro, sem fotos.
+• Pasta: um ícone que abre uma tela cheia com as fotos dos seus contatos.
+• Pasta com lista de nomes: um ícone que abre a lista de nomes, com pesquisa rápida.
+
+Um toque para o que você quiser:
+Escolha o que o toque rápido faz em cada widget: ligação direta, conversa no WhatsApp, ligação no WhatsApp, mensagem de texto ou cartão de contato. As outras opções abrem com um toque duplo na tela inicial ou com um toque longo dentro das pastas.
+
+Do seu jeito:
+• Escolha as pessoas uma a uma ou mostre os contatos marcados com estrela no seu celular.
+• Ordene manualmente, em ordem alfabética ou pela última ligação.
+• Três tamanhos e três formatos de foto, e oito fundos, incluindo transparente e as cores do seu celular.
+• Na lista de nomes: texto maior ou menor, nomes em negrito, o número abaixo ou ao lado do nome, linhas divisórias e espaçamento entre linhas.
+• Para pessoas sem foto, o nome completo pode aparecer no lugar dela.
+• Ícone de pasta de um conjunto pronto ou de uma imagem da sua galeria.
+• Uma barra opcional com duas setas e um botão Ver todos quando nem todos cabem.
+
+Sua privacidade continua sua:
+O app não tem permissão de internet, então seus contatos ficam no seu celular e não são enviados a lugar nenhum. Sem contas e sem anúncios.
+
+Permissões e por que são necessárias:
+• Contatos: para mostrar nomes, números e fotos nos widgets e atualizá-los quando mudarem.
+• Fazer ligações: para iniciar uma ligação assim que você toca em uma pessoa. O app não lê seu registro de chamadas.
+
+Disponível em árabe, inglês, urdu, híndi, indonésio, turco, espanhol e português.

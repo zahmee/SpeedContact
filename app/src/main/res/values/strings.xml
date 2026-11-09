@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speed Contact</string>
+
+    <!-- Widget -->
+    <string name="widget_label">Contact photos</string>
+    <string name="widget_description">Photos of the people you choose. Tap a photo to call.</string>
+    <string name="widget_message_choose_people">Tap to choose people</string>
+    <string name="widget_message_permission">Tap to allow access to contacts</string>
+    <string name="widget_message_no_favorites">No favorites found. Tap to change the source</string>
+    <string name="cd_call">Call %1$s</string>
+    <string name="cd_whatsapp_chat">WhatsApp chat with %1$s</string>
+    <string name="cd_whatsapp_call">WhatsApp call to %1$s</string>
+    <string name="cd_sms">Text %1$s</string>
+    <string name="cd_card">Open contact card for %1$s</string>
+
+    <!-- Folder -->
+    <string name="folder_widget_label">Contacts folder</string>
+    <string name="folder_widget_description">One icon on your home screen that opens a full screen of your contacts.</string>
+    <string name="folder_default_title">My contacts</string>
+    <string name="folder_untitled">Contacts folder</string>
+    <string name="folder_settings">Folder settings</string>
+    <string name="folder_empty">No people in this folder yet</string>
+    <string name="folder_choose_people">Choose people</string>
+    <string name="cd_open_folder">Open %1$s</string>
+    <string name="section_folder_name">Folder name</string>
+    <string name="show_folder_name">Show the name</string>
+    <string name="folder_name_label">Name</string>
+    <string name="folder_search_empty">No results</string>
+    <string name="cd_search">Search</string>
+
+    <!-- Names list -->
+    <string name="list_widget_label">Names list</string>
+    <string name="list_widget_description">Names of the people you choose, one per line, without photos. Tap a name to call.</string>
+    <string name="list_folder_widget_label">Names list folder</string>
+    <string name="list_folder_widget_description">One icon on your home screen that opens a full screen list of your contacts\' names.</string>
+    <string name="list_folder_default_title">Names</string>
+    <string name="list_font_size">Text size</string>
+    <string name="list_font_size_value">%1$d</string>
+    <string name="cd_font_smaller">Smaller text</string>
+    <string name="cd_font_larger">Larger text</string>
+    <string name="list_bold">Bold names</string>
+    <string name="list_show_number">Show the number</string>
+    <string name="list_show_dividers">Lines between names</string>
+    <string name="list_spacing">Line spacing</string>
+    <string name="spacing_compact">Compact</string>
+    <string name="spacing_normal">Normal</string>
+    <string name="spacing_wide">Wide</string>
+
+    <string name="widget_show_all">Show all</string>
+    <string name="cd_page_up">Scroll up</string>
+    <string name="cd_page_down">Scroll down</string>
+
+    <string name="show_page_bar">Show the arrows bar</string>
+    <string name="page_bar_hint">Appears under the widget when not everyone fits, with two arrows and a Show all button. Useful on phones where the system takes the swipe for itself.</string>
+    <string name="number_placement">Number position</string>
+    <string name="number_below">Under the name</string>
+    <string name="number_beside">Beside the name</string>
+
+    <!-- Folder icon -->
+    <string name="section_folder_icon">Folder icon</string>
+    <string name="folder_icon_gallery">Choose a picture from the gallery</string>
+    <string name="folder_icon_failed">This picture could not be opened</string>
+    <string name="icon_app">App icon</string>
+    <string name="icon_people">People</string>
+    <string name="icon_home">Home</string>
+    <string name="icon_work">Work</string>
+    <string name="icon_star">Star</string>
+    <string name="icon_heart">Heart</string>
+    <string name="icon_phone">Phone</string>
+    <string name="icon_chat">Chat</string>
+    <string name="icon_school">Study</string>
+    <string name="icon_hospital">Health</string>
+    <string name="icon_shop">Shopping</string>
+    <string name="icon_building">Company</string>
+    <string name="icon_folder">Folder</string>
+    <string name="icon_custom">Your picture</string>
+
+    <!-- Language -->
+    <string name="language_title">Language</string>
+    <string name="language_system">Phone language</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_website">Website</string>
+    <string name="about_phone">Phone</string>
+    <string name="about_whatsapp">WhatsApp</string>
+    <string name="about_email">Email</string>
+    <string name="about_location">Location</string>
+    <string name="about_privacy">Privacy policy</string>
+    <string name="privacy_policy_text">This policy explains how the Speed Contact app handles your data.\n\nDeveloper: CDIT, Creative Development &amp; IT Programming, Khamis Mushait, Saudi Arabia. Contact: email info@cdit.co, phone and WhatsApp +966502010911, or the contact form at cdit.co.\n\nData the app accesses\n• Contacts: names, nicknames, phone numbers, photos and the favorite mark, to show people in your widgets. It reads them again in the background to update the widgets when they change.\n• Making calls: to start a call when you tap a person. The app does not read your call log.\n• Gallery pictures: only the picture you choose as a folder icon.\n\nUse and storage\nAll processing happens on your phone. The app has no internet permission, so it sends no data to the developer or anyone else, and it contains no ads or analytics. In its private storage it keeps your widget settings, the people and numbers you chose, the time of the last call started from its widgets for each person, and a small copy of an icon picture. This data is not included in cloud backups.\n\nSharing\nWe do not share your data with anyone. When you choose a text message, WhatsApp or the contact card, that app opens and receives the number or contact to carry out your request, and its own policy then applies.\n\nDeletion\nA widget\'s settings are deleted when you remove it from the home screen, and all stored data is deleted when you uninstall the app. The app never changes or deletes your contacts. You can withdraw any permission in your phone\'s settings at any time.\n\nChildren\nThe app is not directed at children under 13.\n\nChanges\nAny change to this policy is published here. Last updated: 9 November 2026.</string>
+    <string name="developer_name">CDIT, Creative Development &amp; IT Programming</string>
+    <string name="developer_description">A Saudi company specializing in software development and digital business solutions from Khamis Mushait, serving businesses across the Asir region and the Kingdom.</string>
+    <string name="developer_location">Khamis Mushait, Asir Region</string>
+    <string name="developer_website_label" translatable="false">cdit.co</string>
+    <string name="developer_website_url" translatable="false">https://cdit.co/en/</string>
+
+    <!-- Tap outcomes -->
+    <string name="call_permission_denied">Direct calling needs the phone permission. Opening the dialer instead.</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed</string>
+    <string name="whatsapp_call_unavailable">WhatsApp calling is not available for this contact. Opening the chat.</string>
+    <string name="action_failed">This action could not be completed</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Widget settings -->
+    <string name="config_title">Widget settings</string>
+    <string name="preview_no_people">Add people to see their photos here</string>
+    <string name="preview_no_favorites">No favorites with a phone number</string>
+    <string name="preview_needs_permission">Allow access to contacts to see photos</string>
+    <string name="preview_no_people_names">Add people to see their names here</string>
+    <string name="preview_needs_permission_names">Allow access to contacts to see names</string>
+
+    <string name="section_people">People</string>
+    <string name="source_manual">My list</string>
+    <string name="source_favorites">Phone favorites</string>
+    <string name="favorites_hint">Contacts starred in your phone appear here automatically.</string>
+    <string name="favorites_empty">No starred contacts with a phone number were found. Star a contact in your phone and it will appear here.</string>
+    <string name="add_people">Add people</string>
+    <string name="cd_remove_person">Remove %1$s</string>
+    <string name="cd_drag_person">Drag to reorder</string>
+    <string name="permission_contacts_title">Access to contacts is needed</string>
+    <string name="permission_contacts_body">Speed Contact reads your contacts\' names, numbers and photos to show them in your home screen widgets, and reads them again in the background, even when the app is closed, to keep the widgets up to date. This data stays on your phone: the app has no internet access and sends it nowhere.</string>
+    <string name="permission_call_title">Direct calling permission</string>
+    <string name="permission_call_body">To start a call as soon as you tap a person, the app needs permission to make phone calls. It only calls when you tap, and it does not read your call log. Without this permission, the phone app opens so you can place the call yourself.</string>
+    <string name="permission_continue">Continue</string>
+    <string name="permission_not_now">Not now</string>
+    <string name="permission_allow">Allow</string>
+    <string name="permission_open_settings">Open settings</string>
+
+    <string name="section_tap_action">When a photo is tapped</string>
+    <string name="section_tap_action_name">When a name is tapped</string>
+    <string name="quick_tap">Quick tap</string>
+    <string name="hold_options">Press and hold shows these options</string>
+    <string name="double_tap_options">Double tap shows these options</string>
+    <string name="double_tap_hint">Android keeps long presses on the home screen for moving widgets, so options open with a double tap. A single tap waits a brief moment before acting, unless you clear all the options.</string>
+    <string name="action_call">Direct call</string>
+    <string name="action_whatsapp_chat">WhatsApp chat</string>
+    <string name="action_whatsapp_call">WhatsApp call</string>
+    <string name="action_sms">Text message</string>
+    <string name="action_card">Contact card</string>
+
+    <string name="section_sort">Order</string>
+    <string name="sort_custom">Custom</string>
+    <string name="sort_alphabetical">Alphabetical</string>
+    <string name="sort_recent">Recent calls</string>
+    <string name="sort_recent_hint">Based on calls started from this app\'s widgets.</string>
+
+    <string name="section_appearance">Appearance</string>
+    <string name="photo_size">Photo size</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+    <string name="photo_shape">Photo shape</string>
+    <string name="shape_rounded">Rounded</string>
+    <string name="shape_circle">Circle</string>
+    <string name="shape_square">Square</string>
+    <string name="placeholder_image">Image for people without a photo</string>
+    <string name="placeholder_light">Light</string>
+    <string name="placeholder_dark">Dark</string>
+    <string name="background">Background</string>
+    <string name="background_blue">Blue</string>
+    <string name="background_dynamic">Phone colors</string>
+    <string name="background_transparent">Transparent</string>
+    <string name="background_black_translucent">Translucent black</string>
+    <string name="background_white_translucent">Translucent white</string>
+    <string name="background_black">Black</string>
+    <string name="background_white">White</string>
+    <string name="background_pink">Pink</string>
+
+    <string name="section_title">Widget title</string>
+    <string name="show_title">Show title</string>
+    <string name="title_label">Title</string>
+
+    <string name="section_name">Names</string>
+    <string name="show_name">Show names on photos</string>
+    <string name="full_name_without_photo">Show the full name for people without a photo</string>
+    <string name="prefer_nickname">Use nicknames when available</string>
+    <string name="full_name">Show full name</string>
+    <string name="last_name_first">Last name first</string>
+
+    <!-- Contact picker -->
+    <string name="picker_title">Choose people</string>
+    <string name="picker_search">Search by name or number</string>
+    <string name="picker_done">Done (%1$d)</string>
+    <string name="picker_empty">No contacts found</string>
+    <string name="picker_choose_number">Which number for %1$s?</string>
+    <string name="picker_confirm_number">Choose</string>
+
+    <!-- Home -->
+    <string name="home_intro_title">Add your contacts to the home screen</string>
+    <string name="home_intro_body">Show their photos in a grid or their names in a list, or keep them in one folder that opens a full screen. One tap calls them.</string>
+    <string name="home_add_grid">Add photo grid</string>
+    <string name="home_add_folder">Add folder</string>
+    <string name="home_add_list">Add names list</string>
+    <string name="home_add_list_folder">Add names list folder</string>
+    <string name="home_my_widgets">Your widgets</string>
+    <string name="home_widget_untitled">Contact photos</string>
+    <string name="home_kind_grid">Photo grid</string>
+    <string name="home_kind_folder">Folder</string>
+    <string name="home_kind_list">Names list</string>
+    <string name="home_kind_list_folder">Names list folder</string>
+    <string name="home_widget_summary">%1$s · %2$s</string>
+    <string name="home_widget_needs_setup">Tap to set up</string>
+    <plurals name="people_count">
+        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d people</item>
+    </plurals>
+    <string name="pin_help_title">Add it from your home screen</string>
+    <string name="pin_help_body">Touch and hold an empty spot on your home screen, choose Widgets, then find Speed Contact.</string>
+</resources>

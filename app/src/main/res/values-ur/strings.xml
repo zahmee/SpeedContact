@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speed Contact</string>
+
+    <!-- Widget -->
+    <string name="widget_label">رابطوں کی تصاویر</string>
+    <string name="widget_description">آپ کے منتخب کردہ لوگوں کی تصاویر۔ کال کرنے کے لیے تصویر پر تھپتھپائیں۔</string>
+    <string name="widget_message_choose_people">لوگ منتخب کرنے کے لیے تھپتھپائیں</string>
+    <string name="widget_message_permission">رابطوں تک رسائی کی اجازت دینے کے لیے تھپتھپائیں</string>
+    <string name="widget_message_no_favorites">کوئی پسندیدہ رابطہ نہیں ملا۔ ماخذ بدلنے کے لیے تھپتھپائیں</string>
+    <string name="cd_call">%1$s کو کال کریں</string>
+    <string name="cd_whatsapp_chat">%1$s کے ساتھ WhatsApp چیٹ</string>
+    <string name="cd_whatsapp_call">%1$s کو WhatsApp کال</string>
+    <string name="cd_sms">%1$s کو ٹیکسٹ پیغام بھیجیں</string>
+    <string name="cd_card">%1$s کا رابطہ کارڈ کھولیں</string>
+
+    <!-- Folder -->
+    <string name="folder_widget_label">رابطوں کا فولڈر</string>
+    <string name="folder_widget_description">آپ کی ہوم اسکرین پر ایک آئیکن جو پوری اسکرین پر آپ کے رابطے کھولتا ہے۔</string>
+    <string name="folder_default_title">میرے رابطے</string>
+    <string name="folder_untitled">رابطوں کا فولڈر</string>
+    <string name="folder_settings">فولڈر کی ترتیبات</string>
+    <string name="folder_empty">اس فولڈر میں ابھی کوئی شخص نہیں ہے</string>
+    <string name="folder_choose_people">لوگ منتخب کریں</string>
+    <string name="cd_open_folder">%1$s کھولیں</string>
+    <string name="section_folder_name">فولڈر کا نام</string>
+    <string name="show_folder_name">نام دکھائیں</string>
+    <string name="folder_name_label">نام</string>
+    <string name="folder_search_empty">کوئی نتیجہ نہیں</string>
+    <string name="cd_search">تلاش کریں</string>
+
+    <!-- Names list -->
+    <string name="list_widget_label">ناموں کی فہرست</string>
+    <string name="list_widget_description">آپ کے منتخب کردہ لوگوں کے نام، ہر سطر میں ایک، بغیر تصاویر کے۔ کال کرنے کے لیے نام پر تھپتھپائیں۔</string>
+    <string name="list_folder_widget_label">ناموں کی فہرست کا فولڈر</string>
+    <string name="list_folder_widget_description">آپ کی ہوم اسکرین پر ایک آئیکن جو پوری اسکرین پر آپ کے رابطوں کے ناموں کی فہرست کھولتا ہے۔</string>
+    <string name="list_folder_default_title">نام</string>
+    <string name="list_font_size">متن کا سائز</string>
+    <string name="list_font_size_value">%1$d</string>
+    <string name="cd_font_smaller">چھوٹا متن</string>
+    <string name="cd_font_larger">بڑا متن</string>
+    <string name="list_bold">بولڈ نام</string>
+    <string name="list_show_number">نمبر دکھائیں</string>
+    <string name="list_show_dividers">ناموں کے درمیان لکیریں</string>
+    <string name="list_spacing">سطروں کے درمیان فاصلہ</string>
+    <string name="spacing_compact">کم</string>
+    <string name="spacing_normal">عام</string>
+    <string name="spacing_wide">زیادہ</string>
+
+    <string name="widget_show_all">سب دکھائیں</string>
+    <string name="cd_page_up">اوپر اسکرول کریں</string>
+    <string name="cd_page_down">نیچے اسکرول کریں</string>
+
+    <string name="show_page_bar">تیروں کی پٹی دکھائیں</string>
+    <string name="page_bar_hint">جب سب لوگ ویجیٹ میں نہ آ سکیں تو یہ اس کے نیچے ظاہر ہوتی ہے، جس میں دو تیر اور «سب دکھائیں» بٹن ہوتا ہے۔ ان فونز پر مفید ہے جہاں سسٹم سوائپ کو اپنے لیے استعمال کرتا ہے۔</string>
+    <string name="number_placement">نمبر کی جگہ</string>
+    <string name="number_below">نام کے نیچے</string>
+    <string name="number_beside">نام کے ساتھ</string>
+
+    <!-- Folder icon -->
+    <string name="section_folder_icon">فولڈر کا آئیکن</string>
+    <string name="folder_icon_gallery">گیلری سے تصویر منتخب کریں</string>
+    <string name="folder_icon_failed">یہ تصویر نہیں کھل سکی</string>
+    <string name="icon_app">ایپ آئیکن</string>
+    <string name="icon_people">لوگ</string>
+    <string name="icon_home">گھر</string>
+    <string name="icon_work">کام</string>
+    <string name="icon_star">ستارہ</string>
+    <string name="icon_heart">دل</string>
+    <string name="icon_phone">فون</string>
+    <string name="icon_chat">چیٹ</string>
+    <string name="icon_school">تعلیم</string>
+    <string name="icon_hospital">صحت</string>
+    <string name="icon_shop">شاپنگ</string>
+    <string name="icon_building">کمپنی</string>
+    <string name="icon_folder">فولڈر</string>
+    <string name="icon_custom">آپ کی تصویر</string>
+
+    <!-- Language -->
+    <string name="language_title">زبان</string>
+    <string name="language_system">فون کی زبان</string>
+
+    <!-- About -->
+    <string name="about_title">ایپ کے بارے میں</string>
+    <string name="about_version">ورژن %1$s</string>
+    <string name="about_developer">ڈیولپر</string>
+    <string name="about_website">ویب سائٹ</string>
+    <string name="about_phone">فون</string>
+    <string name="about_whatsapp">WhatsApp</string>
+    <string name="about_email">ای میل</string>
+    <string name="about_location">مقام</string>
+    <string name="about_privacy">رازداری کی پالیسی</string>
+    <string name="privacy_policy_text">یہ پالیسی بتاتی ہے کہ Speed Contact ایپ آپ کے ڈیٹا کو کیسے ہینڈل کرتی ہے۔\n\nڈیولپر: CDIT, Creative Development &amp; IT Programming، خمیس مشیط، سعودی عرب۔ رابطہ: ای میل info@cdit.co، فون اور WhatsApp ‎+966502010911، یا cdit.co پر رابطہ فارم۔\n\nایپ جس ڈیٹا تک رسائی حاصل کرتی ہے\n• رابطے: نام، عرفی نام، فون نمبرز، تصاویر اور پسندیدہ کا نشان، تاکہ آپ کے ویجیٹس میں لوگوں کو دکھایا جا سکے۔ رابطوں میں تبدیلی ہونے پر ویجیٹس کو اپ ڈیٹ کرنے کے لیے ایپ انہیں پس منظر میں دوبارہ پڑھتی ہے۔\n• کالز کرنا: کسی شخص پر تھپتھپانے پر کال شروع کرنے کے لیے۔ ایپ آپ کا کال لاگ نہیں پڑھتی۔\n• گیلری کی تصاویر: صرف وہ تصویر جو آپ فولڈر کے آئیکن کے طور پر منتخب کریں۔\n\nاستعمال اور اسٹوریج\nساری پروسیسنگ آپ کے فون پر ہوتی ہے۔ ایپ کے پاس انٹرنیٹ کی اجازت نہیں ہے، اس لیے وہ ڈیولپر یا کسی اور کو کوئی ڈیٹا نہیں بھیجتی، اور اس میں کوئی اشتہارات یا تجزیات نہیں ہیں۔ ایپ اپنی نجی اسٹوریج میں آپ کے ویجیٹ کی ترتیبات، آپ کے منتخب کردہ لوگ اور نمبرز، ہر شخص کے لیے ایپ کے ویجیٹس سے شروع کی گئی آخری کال کا وقت، اور آئیکن کی تصویر کی ایک چھوٹی کاپی رکھتی ہے۔ یہ ڈیٹا کلاؤڈ بیک اپس میں شامل نہیں ہوتا۔\n\nاشتراک\nہم آپ کے ڈیٹا کا کسی کے ساتھ اشتراک نہیں کرتے۔ جب آپ ٹیکسٹ پیغام، WhatsApp یا رابطہ کارڈ منتخب کرتے ہیں، تو وہ ایپ کھلتی ہے اور آپ کی درخواست پوری کرنے کے لیے نمبر یا رابطہ وصول کرتی ہے، اور پھر اس کی اپنی پالیسی لاگو ہوتی ہے۔\n\nحذف کرنا\nجب آپ ویجیٹ کو ہوم اسکرین سے ہٹاتے ہیں تو اس کی ترتیبات حذف ہو جاتی ہیں، اور جب آپ ایپ ان انسٹال کرتے ہیں تو تمام محفوظ کردہ ڈیٹا حذف ہو جاتا ہے۔ ایپ آپ کے رابطوں میں کبھی تبدیلی نہیں کرتی اور نہ کبھی انہیں حذف کرتی ہے۔ آپ کسی بھی وقت اپنے فون کی ترتیبات میں کوئی بھی اجازت واپس لے سکتے ہیں۔\n\nبچے\nیہ ایپ 13 سال سے کم عمر بچوں کے لیے نہیں بنائی گئی۔\n\nتبدیلیاں\nاس پالیسی میں کوئی بھی تبدیلی یہاں شائع کی جاتی ہے۔ آخری اپ ڈیٹ: 9 نومبر 2026۔</string>
+    <string name="developer_name">CDIT, Creative Development &amp; IT Programming</string>
+    <string name="developer_description">خمیس مشیط میں قائم ایک سعودی کمپنی جو سافٹ ویئر ڈیولپمنٹ اور ڈیجیٹل کاروباری حل میں مہارت رکھتی ہے، اور عسیر ریجن اور پوری مملکت میں کاروباروں کو خدمات فراہم کرتی ہے۔</string>
+    <string name="developer_location">خمیس مشیط، عسیر ریجن</string>
+
+    <!-- Tap outcomes -->
+    <string name="call_permission_denied">براہ راست کال کے لیے فون کی اجازت درکار ہے۔ اس کے بجائے ڈائلر کھولا جا رہا ہے۔</string>
+    <string name="whatsapp_not_installed">فون پر WhatsApp انسٹال نہیں ہے</string>
+    <string name="whatsapp_call_unavailable">اس رابطے کے لیے WhatsApp کال دستیاب نہیں ہے۔ چیٹ کھولی جا رہی ہے۔</string>
+    <string name="action_failed">یہ کارروائی مکمل نہیں ہو سکی</string>
+
+    <!-- Common -->
+    <string name="save">محفوظ کریں</string>
+    <string name="close">بند کریں</string>
+    <string name="back">واپس</string>
+    <string name="cancel">منسوخ</string>
+    <string name="ok">ٹھیک ہے</string>
+
+    <!-- Widget settings -->
+    <string name="config_title">ویجیٹ کی ترتیبات</string>
+    <string name="preview_no_people">یہاں ان کی تصاویر دیکھنے کے لیے لوگ شامل کریں</string>
+    <string name="preview_no_favorites">فون نمبر والا کوئی پسندیدہ رابطہ نہیں</string>
+    <string name="preview_needs_permission">تصاویر دیکھنے کے لیے رابطوں تک رسائی کی اجازت دیں</string>
+    <string name="preview_no_people_names">یہاں ان کے نام دیکھنے کے لیے لوگ شامل کریں</string>
+    <string name="preview_needs_permission_names">نام دیکھنے کے لیے رابطوں تک رسائی کی اجازت دیں</string>
+
+    <string name="section_people">لوگ</string>
+    <string name="source_manual">میری فہرست</string>
+    <string name="source_favorites">فون کے پسندیدہ</string>
+    <string name="favorites_hint">آپ کے فون میں ستارے کے نشان والے رابطے یہاں خود بخود ظاہر ہوتے ہیں۔</string>
+    <string name="favorites_empty">ایسا کوئی رابطہ نہیں ملا جس پر ستارے کا نشان ہو اور فون نمبر بھی ہو۔ اپنے فون میں کسی رابطے پر ستارے کا نشان لگائیں، وہ یہاں ظاہر ہو جائے گا۔</string>
+    <string name="add_people">لوگ شامل کریں</string>
+    <string name="cd_remove_person">%1$s کو ہٹائیں</string>
+    <string name="cd_drag_person">ترتیب بدلنے کے لیے گھسیٹیں</string>
+    <string name="permission_contacts_title">رابطوں تک رسائی درکار ہے</string>
+    <string name="permission_contacts_body">آپ کی ہوم اسکرین کے ویجیٹس میں دکھانے کے لیے Speed Contact آپ کے رابطوں کے نام، نمبرز اور تصاویر پڑھتی ہے، اور ویجیٹس کو اپ ٹو ڈیٹ رکھنے کے لیے ایپ بند ہونے پر بھی انہیں پس منظر میں دوبارہ پڑھتی ہے۔ یہ ڈیٹا آپ کے فون پر ہی رہتا ہے: ایپ کے پاس انٹرنیٹ تک رسائی نہیں ہے اور وہ اسے کہیں نہیں بھیجتی۔</string>
+    <string name="permission_call_title">براہ راست کال کی اجازت</string>
+    <string name="permission_call_body">کسی شخص پر تھپتھپاتے ہی کال شروع کرنے کے لیے ایپ کو فون کالز کرنے کی اجازت درکار ہے۔ ایپ صرف آپ کے تھپتھپانے پر کال کرتی ہے، اور آپ کا کال لاگ نہیں پڑھتی۔ اس اجازت کے بغیر فون ایپ کھلتی ہے تاکہ آپ خود کال کر سکیں۔</string>
+    <string name="permission_continue">جاری رکھیں</string>
+    <string name="permission_not_now">ابھی نہیں</string>
+    <string name="permission_allow">اجازت دیں</string>
+    <string name="permission_open_settings">ترتیبات کھولیں</string>
+
+    <string name="section_tap_action">جب تصویر پر تھپتھپایا جائے</string>
+    <string name="section_tap_action_name">جب نام پر تھپتھپایا جائے</string>
+    <string name="quick_tap">فوری تھپتھپانا</string>
+    <string name="hold_options">دبائے رکھنے سے یہ اختیارات دکھائی دیتے ہیں</string>
+    <string name="double_tap_options">دو بار تھپتھپانے سے یہ اختیارات دکھائی دیتے ہیں</string>
+    <string name="double_tap_hint">ہوم اسکرین پر دبائے رکھنے کو Android ویجیٹس منتقل کرنے کے لیے مخصوص رکھتا ہے، اس لیے اختیارات دو بار تھپتھپانے سے کھلتے ہیں۔ ایک بار تھپتھپانے پر کارروائی سے پہلے ایک لمحہ انتظار ہوتا ہے، الا یہ کہ آپ تمام اختیارات غیر منتخب کر دیں۔</string>
+    <string name="action_call">براہ راست کال</string>
+    <string name="action_whatsapp_chat">‏WhatsApp چیٹ</string>
+    <string name="action_whatsapp_call">‏WhatsApp کال</string>
+    <string name="action_sms">ٹیکسٹ پیغام</string>
+    <string name="action_card">رابطہ کارڈ</string>
+
+    <string name="section_sort">ترتیب</string>
+    <string name="sort_custom">دستی</string>
+    <string name="sort_alphabetical">حروف تہجی</string>
+    <string name="sort_recent">حالیہ کالز</string>
+    <string name="sort_recent_hint">اس ایپ کے ویجیٹس سے شروع کی گئی کالز کی بنیاد پر۔</string>
+
+    <string name="section_appearance">ظاہری شکل</string>
+    <string name="photo_size">تصویر کا سائز</string>
+    <string name="size_small">چھوٹا</string>
+    <string name="size_medium">درمیانہ</string>
+    <string name="size_large">بڑا</string>
+    <string name="photo_shape">تصویر کی شکل</string>
+    <string name="shape_rounded">گول کونے</string>
+    <string name="shape_circle">دائرہ</string>
+    <string name="shape_square">مربع</string>
+    <string name="placeholder_image">بغیر تصویر والے لوگوں کے لیے تصویر</string>
+    <string name="placeholder_light">ہلکی</string>
+    <string name="placeholder_dark">گہری</string>
+    <string name="background">پس منظر</string>
+    <string name="background_blue">نیلا</string>
+    <string name="background_dynamic">فون کے رنگ</string>
+    <string name="background_transparent">شفاف</string>
+    <string name="background_black_translucent">نیم شفاف سیاہ</string>
+    <string name="background_white_translucent">نیم شفاف سفید</string>
+    <string name="background_black">سیاہ</string>
+    <string name="background_white">سفید</string>
+    <string name="background_pink">گلابی</string>
+
+    <string name="section_title">ویجیٹ کا عنوان</string>
+    <string name="show_title">عنوان دکھائیں</string>
+    <string name="title_label">عنوان</string>
+
+    <string name="section_name">نام</string>
+    <string name="show_name">تصاویر پر نام دکھائیں</string>
+    <string name="full_name_without_photo">بغیر تصویر والے لوگوں کا پورا نام دکھائیں</string>
+    <string name="prefer_nickname">دستیاب ہونے پر عرفی نام استعمال کریں</string>
+    <string name="full_name">پورا نام دکھائیں</string>
+    <string name="last_name_first">آخری نام پہلے</string>
+
+    <!-- Contact picker -->
+    <string name="picker_title">لوگ منتخب کریں</string>
+    <string name="picker_search">نام یا نمبر سے تلاش کریں</string>
+    <string name="picker_done">ہو گیا (%1$d)</string>
+    <string name="picker_empty">کوئی رابطہ نہیں ملا</string>
+    <string name="picker_choose_number">‏%1$s کے لیے کون سا نمبر؟</string>
+    <string name="picker_confirm_number">منتخب کریں</string>
+
+    <!-- Home -->
+    <string name="home_intro_title">اپنے رابطے ہوم اسکرین پر شامل کریں</string>
+    <string name="home_intro_body">ان کی تصاویر گرڈ میں یا ان کے نام فہرست میں دکھائیں، یا انہیں ایک ایسے فولڈر میں رکھیں جو پوری اسکرین پر کھلتا ہے۔ ایک بار تھپتھپانے سے انہیں کال ہو جاتی ہے۔</string>
+    <string name="home_add_grid">تصاویر کا گرڈ شامل کریں</string>
+    <string name="home_add_folder">فولڈر شامل کریں</string>
+    <string name="home_add_list">ناموں کی فہرست شامل کریں</string>
+    <string name="home_add_list_folder">ناموں کی فہرست کا فولڈر شامل کریں</string>
+    <string name="home_my_widgets">آپ کے ویجیٹس</string>
+    <string name="home_widget_untitled">رابطوں کی تصاویر</string>
+    <string name="home_kind_grid">تصاویر کا گرڈ</string>
+    <string name="home_kind_folder">فولڈر</string>
+    <string name="home_kind_list">ناموں کی فہرست</string>
+    <string name="home_kind_list_folder">ناموں کی فہرست کا فولڈر</string>
+    <!-- Not a middle dot: next to digits in Arabic script it reads as the digit zero. -->
+    <string name="home_widget_summary">%1$s – %2$s</string>
+    <string name="home_widget_needs_setup">سیٹ اپ کرنے کے لیے تھپتھپائیں</string>
+    <plurals name="people_count">
+        <item quantity="one">%1$d شخص</item>
+        <item quantity="other">%1$d لوگ</item>
+    </plurals>
+    <string name="pin_help_title">اسے اپنی ہوم اسکرین سے شامل کریں</string>
+    <string name="pin_help_body">اپنی ہوم اسکرین پر کسی خالی جگہ کو ٹچ کریں اور دبائے رکھیں، ویجیٹس منتخب کریں، پھر Speed Contact تلاش کریں۔</string>
+</resources>

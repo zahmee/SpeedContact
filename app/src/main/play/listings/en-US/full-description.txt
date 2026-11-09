@@ -1,0 +1,28 @@
+Speed Contact puts the people you talk to most on your home screen, so you can reach them with one tap without opening an app.
+
+Four widgets to choose from:
+• Photo grid: photos of the people you choose, with their names.
+• Names list: names on lines under each other, without photos.
+• Folder: one icon that opens a full screen of your contacts' photos.
+• Names list folder: one icon that opens the list of names, with quick search.
+
+One tap for what you want:
+Choose what a quick tap does in each widget: direct call, WhatsApp chat, WhatsApp call, text message or contact card. The other options open with a double tap on the home screen, or a long press inside folders.
+
+Make it yours:
+• Choose people yourself, or show the contacts you starred on your phone.
+• Order them by hand, alphabetically or by last call.
+• Three photo sizes and three shapes, and eight backgrounds including transparent and your phone's colors.
+• In the names list: larger or smaller text, bold names, the number under or beside the name, dividing lines and line spacing.
+• For people without a photo, the full name can appear in its place.
+• A folder icon from a ready-made set or from a picture in your gallery.
+• An optional bar with two arrows and a Show all button when not everyone fits.
+
+Your privacy stays yours:
+The app has no internet permission, so your contacts stay on your phone and are sent nowhere. No accounts and no ads.
+
+Permissions and why they are needed:
+• Contacts: to show names, numbers and photos in the widgets and update them when they change.
+• Making calls: to start a call as soon as you tap a person. The app does not read your call log.
+
+Available in Arabic, English, Urdu, Hindi, Indonesian, Turkish, Spanish and Portuguese.

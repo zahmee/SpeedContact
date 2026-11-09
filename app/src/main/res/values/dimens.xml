@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_padding">6dp</dimen>
+    <dimen name="widget_corner_radius">20dp</dimen>
+    <dimen name="folder_icon_size">52dp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+Speed Contact pone a las personas con las que más hablas en tu pantalla de inicio, para que las contactes con un toque sin abrir ninguna app.
+
+Cuatro widgets para elegir:
+• Cuadrícula de fotos: fotos de las personas que elijas, con sus nombres.
+• Lista de nombres: nombres uno debajo de otro, sin fotos.
+• Carpeta: un icono que abre a pantalla completa las fotos de tus contactos.
+• Carpeta de nombres: un icono que abre la lista de nombres, con búsqueda rápida.
+
+Un toque para lo que quieras:
+Elige qué hace un toque rápido en cada widget: llamada directa, chat de WhatsApp, llamada de WhatsApp, mensaje de texto o tarjeta de contacto. Las demás opciones se abren con un doble toque en la pantalla de inicio, o al mantener presionado dentro de las carpetas.
+
+Hazlo a tu manera:
+• Elige tú a las personas, o muestra los contactos que marcaste con una estrella en tu teléfono.
+• Ordénalos manualmente, por orden alfabético o por última llamada.
+• Tres tamaños y tres formas de foto, y ocho fondos, entre ellos transparente y los colores de tu teléfono.
+• En la lista de nombres: texto más grande o más pequeño, nombres en negrita, el número debajo o junto al nombre, líneas divisorias y espacio entre líneas.
+• Para las personas sin foto, el nombre completo puede aparecer en su lugar.
+• Un icono de carpeta de un conjunto predefinido o de una imagen de tu galería.
+• Una barra opcional con dos flechas y un botón Ver todos cuando no caben todas las personas.
+
+Tu privacidad es tuya:
+La app no tiene permiso de internet, así que tus contactos se quedan en tu teléfono y no se envían a ninguna parte. Sin cuentas ni anuncios.
+
+Permisos y por qué se necesitan:
+• Contactos: para mostrar nombres, números y fotos en los widgets y actualizarlos cuando cambian.
+• Hacer llamadas: para iniciar una llamada en cuanto tocas un contacto. La app no lee tu registro de llamadas.
+
+Disponible en árabe, inglés, urdu, hindi, indonesio, turco, español y portugués.

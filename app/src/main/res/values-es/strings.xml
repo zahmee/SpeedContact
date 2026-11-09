@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speed Contact</string>
+
+    <!-- Widget -->
+    <string name="widget_label">Fotos de contactos</string>
+    <string name="widget_description">Fotos de las personas que elijas. Toca una foto para llamar.</string>
+    <string name="widget_message_choose_people">Toca para elegir personas</string>
+    <string name="widget_message_permission">Toca para permitir el acceso a los contactos</string>
+    <string name="widget_message_no_favorites">No se encontraron favoritos. Toca para cambiar el origen</string>
+    <string name="cd_call">Llamar a %1$s</string>
+    <string name="cd_whatsapp_chat">Chat de WhatsApp con %1$s</string>
+    <string name="cd_whatsapp_call">Llamada de WhatsApp a %1$s</string>
+    <string name="cd_sms">Enviar mensaje de texto a %1$s</string>
+    <string name="cd_card">Abrir la tarjeta de contacto de %1$s</string>
+
+    <!-- Folder -->
+    <string name="folder_widget_label">Carpeta de contactos</string>
+    <string name="folder_widget_description">Un icono en tu pantalla de inicio que abre tus contactos a pantalla completa.</string>
+    <string name="folder_default_title">Mis contactos</string>
+    <string name="folder_untitled">Carpeta de contactos</string>
+    <string name="folder_settings">Ajustes de la carpeta</string>
+    <string name="folder_empty">Aún no hay personas en esta carpeta</string>
+    <string name="folder_choose_people">Elegir personas</string>
+    <string name="cd_open_folder">Abrir %1$s</string>
+    <string name="section_folder_name">Nombre de la carpeta</string>
+    <string name="show_folder_name">Mostrar el nombre</string>
+    <string name="folder_name_label">Nombre</string>
+    <string name="folder_search_empty">Sin resultados</string>
+    <string name="cd_search">Buscar</string>
+
+    <!-- Names list -->
+    <string name="list_widget_label">Lista de nombres</string>
+    <string name="list_widget_description">Nombres de las personas que elijas, uno por línea y sin fotos. Toca un nombre para llamar.</string>
+    <string name="list_folder_widget_label">Carpeta de nombres</string>
+    <string name="list_folder_widget_description">Un icono en tu pantalla de inicio que abre a pantalla completa una lista con los nombres de tus contactos.</string>
+    <string name="list_folder_default_title">Nombres</string>
+    <string name="list_font_size">Tamaño del texto</string>
+    <string name="list_font_size_value">%1$d</string>
+    <string name="cd_font_smaller">Texto más pequeño</string>
+    <string name="cd_font_larger">Texto más grande</string>
+    <string name="list_bold">Nombres en negrita</string>
+    <string name="list_show_number">Mostrar el número</string>
+    <string name="list_show_dividers">Líneas entre nombres</string>
+    <string name="list_spacing">Espacio entre líneas</string>
+    <string name="spacing_compact">Compacto</string>
+    <string name="spacing_normal">Normal</string>
+    <string name="spacing_wide">Amplio</string>
+
+    <string name="widget_show_all">Ver todos</string>
+    <string name="cd_page_up">Desplazar hacia arriba</string>
+    <string name="cd_page_down">Desplazar hacia abajo</string>
+
+    <string name="show_page_bar">Mostrar la barra de flechas</string>
+    <string name="page_bar_hint">Aparece debajo del widget cuando no caben todas las personas, con dos flechas y un botón Ver todos. Es útil en teléfonos donde el sistema se reserva el gesto de deslizar.</string>
+    <string name="number_placement">Posición del número</string>
+    <string name="number_below">Debajo del nombre</string>
+    <string name="number_beside">Junto al nombre</string>
+
+    <!-- Folder icon -->
+    <string name="section_folder_icon">Icono de la carpeta</string>
+    <string name="folder_icon_gallery">Elegir una imagen de la galería</string>
+    <string name="folder_icon_failed">No se pudo abrir esta imagen</string>
+    <string name="icon_app">De la app</string>
+    <string name="icon_people">Personas</string>
+    <string name="icon_home">Casa</string>
+    <string name="icon_work">Trabajo</string>
+    <string name="icon_star">Estrella</string>
+    <string name="icon_heart">Corazón</string>
+    <string name="icon_phone">Teléfono</string>
+    <string name="icon_chat">Chat</string>
+    <string name="icon_school">Estudios</string>
+    <string name="icon_hospital">Salud</string>
+    <string name="icon_shop">Compras</string>
+    <string name="icon_building">Empresa</string>
+    <string name="icon_folder">Carpeta</string>
+    <string name="icon_custom">Tu imagen</string>
+
+    <!-- Language -->
+    <string name="language_title">Idioma</string>
+    <string name="language_system">Idioma del teléfono</string>
+
+    <!-- About -->
+    <string name="about_title">Acerca de</string>
+    <string name="about_version">Versión %1$s</string>
+    <string name="about_developer">Desarrollador</string>
+    <string name="about_website">Sitio web</string>
+    <string name="about_phone">Teléfono</string>
+    <string name="about_whatsapp">WhatsApp</string>
+    <string name="about_email">Correo electrónico</string>
+    <string name="about_location">Ubicación</string>
+    <string name="about_privacy">Política de privacidad</string>
+    <string name="privacy_policy_text">Esta política explica cómo trata tus datos la app Speed Contact.\n\nDesarrollador: CDIT, Creative Development &amp; IT Programming, Khamis Mushait, Arabia Saudita. Contacto: correo info@cdit.co, teléfono y WhatsApp +966502010911, o el formulario de contacto en cdit.co.\n\nDatos a los que accede la app\n• Contactos: nombres, apodos, números de teléfono, fotos y la marca de favorito, para mostrar a las personas en tus widgets. Los vuelve a leer en segundo plano para actualizar los widgets cuando cambian.\n• Hacer llamadas: para iniciar una llamada cuando tocas un contacto. La app no lee tu registro de llamadas.\n• Imágenes de la galería: solo la imagen que eliges como icono de carpeta.\n\nUso y almacenamiento\nTodo el procesamiento se realiza en tu teléfono. La app no tiene permiso de internet, por lo que no envía ningún dato al desarrollador ni a nadie más, y no contiene anuncios ni herramientas de análisis. En su almacenamiento privado guarda los ajustes de tus widgets, las personas y los números que elegiste, la hora de la última llamada iniciada desde sus widgets para cada persona y una copia pequeña de una imagen de icono. Estos datos no se incluyen en las copias de seguridad en la nube.\n\nUso compartido\nNo compartimos tus datos con nadie. Cuando eliges un mensaje de texto, WhatsApp o la tarjeta de contacto, esa app se abre y recibe el número o el contacto para llevar a cabo tu solicitud, y a partir de ese momento se aplica su propia política.\n\nEliminación\nLos ajustes de un widget se eliminan cuando lo quitas de la pantalla de inicio, y todos los datos almacenados se eliminan cuando desinstalas la app. La app nunca cambia ni elimina tus contactos. Puedes retirar cualquier permiso en los ajustes de tu teléfono en cualquier momento.\n\nNiños\nLa app no está dirigida a niños menores de 13 años.\n\nCambios\nCualquier cambio en esta política se publica aquí. Última actualización: 9 de noviembre de 2026.</string>
+    <string name="developer_name">CDIT, Creative Development &amp; IT Programming</string>
+    <string name="developer_description">Empresa saudí especializada en desarrollo de software y soluciones digitales para empresas, con sede en Khamis Mushait, que atiende a negocios de la región de Asir y de todo el Reino.</string>
+    <string name="developer_location">Khamis Mushait, región de Asir</string>
+
+    <!-- Tap outcomes -->
+    <string name="call_permission_denied">Para llamar directamente se necesita el permiso de teléfono. Se abrirá el marcador.</string>
+    <string name="whatsapp_not_installed">WhatsApp no está instalado</string>
+    <string name="whatsapp_call_unavailable">Las llamadas de WhatsApp no están disponibles para este contacto. Se abrirá el chat.</string>
+    <string name="action_failed">No se pudo completar esta acción</string>
+
+    <!-- Common -->
+    <string name="save">Guardar</string>
+    <string name="close">Cerrar</string>
+    <string name="back">Atrás</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+
+    <!-- Widget settings -->
+    <string name="config_title">Ajustes del widget</string>
+    <string name="preview_no_people">Agrega personas para ver sus fotos aquí</string>
+    <string name="preview_no_favorites">No hay favoritos con número de teléfono</string>
+    <string name="preview_needs_permission">Permite el acceso a los contactos para ver las fotos</string>
+    <string name="preview_no_people_names">Agrega personas para ver sus nombres aquí</string>
+    <string name="preview_needs_permission_names">Permite el acceso a los contactos para ver los nombres</string>
+
+    <string name="section_people">Personas</string>
+    <string name="source_manual">Mi lista</string>
+    <string name="source_favorites">Favoritos</string>
+    <string name="favorites_hint">Los contactos marcados con una estrella en tu teléfono aparecen aquí automáticamente.</string>
+    <string name="favorites_empty">No se encontraron contactos con estrella que tengan número de teléfono. Marca un contacto con una estrella en tu teléfono y aparecerá aquí.</string>
+    <string name="add_people">Agregar personas</string>
+    <string name="cd_remove_person">Quitar a %1$s</string>
+    <string name="cd_drag_person">Arrastra para reordenar</string>
+    <string name="permission_contacts_title">Se necesita acceso a los contactos</string>
+    <string name="permission_contacts_body">Speed Contact lee los nombres, números y fotos de tus contactos para mostrarlos en los widgets de tu pantalla de inicio, y los vuelve a leer en segundo plano, incluso cuando la app está cerrada, para mantener actualizados los widgets. Estos datos permanecen en tu teléfono: la app no tiene acceso a internet y no los envía a ninguna parte.</string>
+    <string name="permission_call_title">Permiso de llamada directa</string>
+    <string name="permission_call_body">Para iniciar una llamada en cuanto tocas un contacto, la app necesita permiso para hacer llamadas telefónicas. Solo llama cuando tocas y no lee tu registro de llamadas. Sin este permiso, se abre la app de teléfono para que hagas la llamada por tu cuenta.</string>
+    <string name="permission_continue">Continuar</string>
+    <string name="permission_not_now">Ahora no</string>
+    <string name="permission_allow">Permitir</string>
+    <string name="permission_open_settings">Abrir ajustes</string>
+
+    <string name="section_tap_action">Al tocar una foto</string>
+    <string name="section_tap_action_name">Al tocar un nombre</string>
+    <string name="quick_tap">Toque rápido</string>
+    <string name="hold_options">Al mantener presionado se muestran estas opciones</string>
+    <string name="double_tap_options">Con un doble toque se muestran estas opciones</string>
+    <string name="double_tap_hint">Android reserva la acción de mantener presionado en la pantalla de inicio para mover widgets, por eso las opciones se abren con un doble toque. Un solo toque espera un instante antes de actuar, a menos que desmarques todas las opciones.</string>
+    <string name="action_call">Llamada directa</string>
+    <string name="action_whatsapp_chat">Chat de WhatsApp</string>
+    <string name="action_whatsapp_call">Llamada de WhatsApp</string>
+    <string name="action_sms">Mensaje de texto</string>
+    <string name="action_card">Tarjeta de contacto</string>
+
+    <string name="section_sort">Orden</string>
+    <string name="sort_custom">Manual</string>
+    <string name="sort_alphabetical">Alfabético</string>
+    <string name="sort_recent">Recientes</string>
+    <string name="sort_recent_hint">Según las llamadas iniciadas desde los widgets de esta app.</string>
+
+    <string name="section_appearance">Apariencia</string>
+    <string name="photo_size">Tamaño de las fotos</string>
+    <string name="size_small">Pequeño</string>
+    <string name="size_medium">Mediano</string>
+    <string name="size_large">Grande</string>
+    <string name="photo_shape">Forma de las fotos</string>
+    <string name="shape_rounded">Redondeada</string>
+    <string name="shape_circle">Círculo</string>
+    <string name="shape_square">Cuadrado</string>
+    <string name="placeholder_image">Imagen para personas sin foto</string>
+    <string name="placeholder_light">Clara</string>
+    <string name="placeholder_dark">Oscura</string>
+    <string name="background">Fondo</string>
+    <string name="background_blue">Azul</string>
+    <string name="background_dynamic">Colores del teléfono</string>
+    <string name="background_transparent">Transparente</string>
+    <string name="background_black_translucent">Negro translúcido</string>
+    <string name="background_white_translucent">Blanco translúcido</string>
+    <string name="background_black">Negro</string>
+    <string name="background_white">Blanco</string>
+    <string name="background_pink">Rosa</string>
+
+    <string name="section_title">Título del widget</string>
+    <string name="show_title">Mostrar título</string>
+    <string name="title_label">Título</string>
+
+    <string name="section_name">Nombres</string>
+    <string name="show_name">Mostrar nombres en las fotos</string>
+    <string name="full_name_without_photo">Mostrar el nombre completo de quienes no tienen foto</string>
+    <string name="prefer_nickname">Usar apodos si están disponibles</string>
+    <string name="full_name">Mostrar nombre completo</string>
+    <string name="last_name_first">Apellido primero</string>
+
+    <!-- Contact picker -->
+    <string name="picker_title">Elegir personas</string>
+    <string name="picker_search">Buscar por nombre o número</string>
+    <string name="picker_done">Listo (%1$d)</string>
+    <string name="picker_empty">No se encontraron contactos</string>
+    <string name="picker_choose_number">¿Qué número usar para %1$s?</string>
+    <string name="picker_confirm_number">Elegir</string>
+
+    <!-- Home -->
+    <string name="home_intro_title">Agrega tus contactos a la pantalla de inicio</string>
+    <string name="home_intro_body">Muestra sus fotos en una cuadrícula o sus nombres en una lista, o guárdalos en una sola carpeta que se abre a pantalla completa. Con un toque, los llamas.</string>
+    <string name="home_add_grid">Agregar cuadrícula de fotos</string>
+    <string name="home_add_folder">Agregar carpeta</string>
+    <string name="home_add_list">Agregar lista de nombres</string>
+    <string name="home_add_list_folder">Agregar carpeta de nombres</string>
+    <string name="home_my_widgets">Tus widgets</string>
+    <string name="home_widget_untitled">Fotos de contactos</string>
+    <string name="home_kind_grid">Cuadrícula de fotos</string>
+    <string name="home_kind_folder">Carpeta</string>
+    <string name="home_kind_list">Lista de nombres</string>
+    <string name="home_kind_list_folder">Carpeta de nombres</string>
+    <string name="home_widget_summary">%1$s · %2$s</string>
+    <string name="home_widget_needs_setup">Toca para configurar</string>
+    <plurals name="people_count">
+        <item quantity="one">%1$d persona</item>
+        <item quantity="many">%1$d de personas</item>
+        <item quantity="other">%1$d personas</item>
+    </plurals>
+    <string name="pin_help_title">Agrégalo desde tu pantalla de inicio</string>
+    <string name="pin_help_body">Mantén presionado un espacio vacío en tu pantalla de inicio, elige Widgets y busca Speed Contact.</string>
+</resources>

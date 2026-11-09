@@ -1,0 +1,28 @@
+Speed Contact, en çok görüştüğünüz kişileri ana ekranınıza yerleştirir; böylece hiçbir uygulamayı açmadan onlara tek dokunuşla ulaşabilirsiniz.
+
+Dört widget seçeneği:
+• Fotoğraf ızgarası: seçtiğiniz kişilerin fotoğrafları ve adları.
+• Ad listesi: alt alta satırlarda adlar, fotoğrafsız.
+• Klasör: kişilerinizin fotoğraflarını tam ekran açan tek bir simge.
+• Ad listesi klasörü: ad listesini hızlı arama kutusuyla açan tek bir simge.
+
+İstediğiniz işlem için tek dokunuş:
+Her widget'ta hızlı dokunmanın ne yapacağını seçin: doğrudan arama, WhatsApp sohbeti, WhatsApp araması, kısa mesaj veya kişi kartı. Diğer seçenekler ana ekranda iki kez dokunarak, klasörlerin içinde ise uzun basarak açılır.
+
+Kendinize göre ayarlayın:
+• Kişileri kendiniz seçin veya telefonunuzda yıldızlı olan kişileri gösterin.
+• Kişileri elle, alfabetik olarak veya son aramaya göre sıralayın.
+• Üç fotoğraf boyutu ve üç şekil, saydam ve telefon renkleri dahil sekiz arka plan.
+• Ad listesinde: daha büyük veya daha küçük metin, kalın adlar, adın altında veya yanında numara, ayırıcı çizgiler ve satır aralığı.
+• Fotoğrafı olmayan kişilerde tam ad, fotoğrafın yerinde görünebilir.
+• Hazır bir setten veya galerinizdeki bir resimden klasör simgesi.
+• Herkes sığmadığında iki ok ve Tümünü gör düğmesi içeren isteğe bağlı çubuk.
+
+Gizliliğiniz size ait:
+Uygulamanın internet izni yoktur; bu nedenle kişileriniz telefonunuzda kalır ve hiçbir yere gönderilmez. Hesap yok, reklam yok.
+
+İzinler ve neden gerekli oldukları:
+• Kişiler: widget'larda adları, numaraları ve fotoğrafları göstermek ve değiştiklerinde güncellemek için.
+• Arama yapma: bir kişiye dokunduğunuz anda aramayı başlatmak için. Uygulama arama kayıtlarınızı okumaz.
+
+Arapça, İngilizce, Urduca, Hintçe, Endonezce, Türkçe, İspanyolca ve Portekizce olarak kullanılabilir.

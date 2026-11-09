@@ -1,0 +1,27 @@
+# Build output and local tools
+.gradle/
+.kotlin/
+build/
+**/build/
+captures/
+local.properties
+.idea/
+*.iml
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Release files are rebuilt from source, and delivered through Google Play.
+release/
+*.apk
+*.aab
+
+# Signing and publishing keys must never be committed.
+keystore/
+keystore.properties
+*.jks
+*.keystore
+play-service-account*.json
+
+# Copied from store/ by tools/sync_play_listing.py.
+app/src/main/play/listings/*/graphics/
